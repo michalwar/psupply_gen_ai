@@ -1,0 +1,11 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.DS_Store
+*.egg
+*.csv
+*.egg-info/
+dist/
+build/
